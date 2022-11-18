@@ -68,7 +68,6 @@ header ul li a {
 .content .textBox {
     position: relative;
     width: 60%;
-    /* background-color: #017143; */
 }
 
 .content .textBox h2 {
@@ -185,7 +184,7 @@ header ul li a {
 /* Responsive  */
 @media screen and (max-width: 1033px) {
     body {
-        /* overflow-clip-box: hidden; */
+
         justify-content: center;
     }
 
@@ -195,12 +194,12 @@ header ul li a {
         flex-direction: column;
         justify-content: center;
         align-items: center;
-        /* background-color: #017143; */
+
     }
 
     .content .textBox {
         width: 100%;
-        /* background-color: rgb(143, 64, 64); */
+
     }
 
     .content .textBox h2 {
@@ -211,9 +210,10 @@ header ul li a {
         width: 100%;
         padding-right: 0;
         margin-top: 5rem;
-        /* height: 50vh; */
+
     }
-    .content .imgBox img{
+
+    .content .imgBox img {
         max-width: 100%;
     }
 
