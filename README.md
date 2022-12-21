@@ -4,7 +4,7 @@ This design is created for showing interest in UI designing and development.
 
 <i>Responsive Design.</i>
 
-<img src="./assets/readme.png" />
+<img src="./img/starbuks.png" />
 
 ## 🔗 Links
 [![portfolio](https://img.shields.io/badge/my_github-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://github.com/yashkolte)
